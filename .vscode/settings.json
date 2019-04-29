@@ -1,4 +1,3 @@
 {
-    "python.pythonPath": "${workspaceFolder}\\VenvDjango\\Scripts\\python.exe",
-    "python.linting.pylintEnabled": false
+  "python.pythonPath": "/Users/bradtraversy/.local/share/virtualenvs/lead_manager_react_django-912rtT3t/bin/python"
 }
